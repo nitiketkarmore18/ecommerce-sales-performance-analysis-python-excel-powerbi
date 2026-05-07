@@ -79,6 +79,7 @@ This project addresses these challenges by building an interactive business inte
 
 # 🔄 Project Workflow
 
+```text
 Raw Retail Dataset
         ↓
 Data Cleaning using Python
@@ -92,6 +93,7 @@ Power BI Data Modeling
 Interactive Dashboard Development
         ↓
 Business Insight Generation
+```
 
 ---
 
@@ -165,12 +167,11 @@ This enables dynamic and interactive business analysis.
 
 The following DAX measure was implemented to evaluate overall business profitability:
 
-DAX
-
+```DAX
 Profit Margin % =
 DIVIDE(SUM(superstore_final[Profit]),
 SUM(superstore_final[Sales]))
-
+```
 
 ### Business Purpose
 
@@ -235,7 +236,7 @@ Pricing strategies and supplier costs should be reevaluated.
 
 # 📌 Dashboard Preview
 
-> Add your final Power BI dashboard screenshot here.
+<img width="1147" height="734" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/3f9d4732-a2e8-4073-b532-bd53ed5b370a" />
 
 ## Recommended Screenshot Guidelines
 
@@ -305,7 +306,7 @@ Potential future enhancements include:
 
 # 📁 Repository Structure
 
-
+```text
 Ecommerce-Sales-Performance-Dashboard/
 │
 ├── Dataset/
@@ -326,6 +327,7 @@ Ecommerce-Sales-Performance-Dashboard/
 │   └── eda_ecommerce_sales_report.pdf
 │
 └── README.md
+```
 
 ---
 
@@ -364,7 +366,7 @@ Aspiring Data Analyst | SQL | Power BI | Python | Business Intelligence
 ### Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/nitiket-karmore-3602b22b6/
-* Portfolio: https://nitiket-karmore-saz8dqw.gamma.site/)
+* Portfolio: https://nitiket-karmore-saz8dqw.gamma.site/
 
 ---
 
