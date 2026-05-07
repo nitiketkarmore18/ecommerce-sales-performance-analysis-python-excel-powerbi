@@ -2,7 +2,7 @@
 
 ## End-to-End Retail Analytics & Business Intelligence Project
 
-
+---
 
 # 🚀 Project Overview
 
