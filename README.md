@@ -317,6 +317,9 @@ Ecommerce-Sales-Performance-Dashboard/
 ├── Notebook/
 │   └── ecommerce_sales_data.ipynb
 │
+├── SQL/
+|   └── ecommerce_sales_queries.sql
+|    
 ├── Dashboard/
 │   └── ecommerce_sales_dashboard.pbix
 │
@@ -327,6 +330,8 @@ Ecommerce-Sales-Performance-Dashboard/
 │   └── eda_ecommerce_sales_report.pdf
 │
 └── README.md
+
+
 ```
 
 ---
