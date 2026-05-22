@@ -113,7 +113,7 @@ Business Insight Generation
 ```
 ---
 
-###🧹 Data Cleaning & Preprocessing
+#🧹 Data Cleaning & Preprocessing
 
 The dataset was cleaned and analyzed using Python in Google Colab.
 
@@ -124,6 +124,9 @@ Verified missing values and duplicates
 Processed numerical and categorical fields
 Performed exploratory data analysis (EDA)
 Prepared cleaned dataset for Power BI reporting
+
+---
+
 
 #🗄️ SQL Querying & Business Analysis
 
