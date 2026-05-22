@@ -1,11 +1,11 @@
-# 📊 Retail Sales Intelligence Dashboard
+# 📊 Ecommerce Sales Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-## End-to-End Retail Analytics & Business Intelligence Project
+## End-to-End ecommerce Retail Analytics & Business Intelligence Project
 
 ---
 
@@ -318,7 +318,7 @@ Potential future enhancements include:
 
 # 📁 Repository Structure
 ```text
-Ecommerce-Sales-Performance-Dashboard/
+Ecommerce-Sales-intelligence-platform/
 │
 ├── Dataset/
 │   ├── SampleSuperstore.csv
@@ -332,13 +332,13 @@ Ecommerce-Sales-Performance-Dashboard/
 │   └── ecommerce_sales_queries.sql
 │
 ├── Dashboard/
-│   └── ecommerce_sales_dashboard.pbix
+│   └── ecommerce_sales_intelligence_platform_dashboard.pbix
 │
 ├── Images/
 │   └── dashboard_overview.png
 │
 ├── Report/
-│   └── eda_ecommerce_sales_report.pdf
+│   └── ecommerce_sales_intelligence_platform_report.pdf
 │
 └── README.md
 ```
