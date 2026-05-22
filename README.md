@@ -174,20 +174,24 @@ The dashboard includes the following business KPIs:
 - Average Discount
 - Interactive Visualizations
 
-Visualization	Purpose
-Sales by Category	Compare category sales performance
-Profit by Category	Evaluate category profitability
-Sales by Region	Analyze regional trends
-Sales by Segment	Evaluate customer segments
-Profit by Sub-Category	Identify loss-making products
-Discount vs Profit Scatter Plot	Analyze discount impact
-Interactive Filters
+## Interactive Visualizations
 
-The dashboard includes slicers for:
+| Visualization | Purpose |
+|---|---|
+| Sales by Category | Compare category sales performance |
+| Profit by Category | Evaluate category profitability |
+| Sales by Region | Analyze regional trends |
+| Sales by Segment | Evaluate customer segments |
+| Profit by Sub-Category | Identify loss-making products |
+| Discount vs Profit Scatter Plot | Analyze discount impact |
 
-- Category
-- Region
-- Segment
+## Interactive Filters
+
+| Filter | Purpose |
+|---|---|
+| Category | Filter category-wise analysis |
+| Region | Analyze regional performance |
+| Segment | Evaluate customer segment insights |
 
 This enables dynamic and interactive business analysis.
 
@@ -242,11 +246,12 @@ Pricing strategies and supplier costs should be reevaluated.
 
 # 💡 Business Recommendations
 
-Business Problem	Recommendation
-High discounts reducing profit	Optimize discount strategy
-Loss-making sub-categories	Reevaluate pricing and supplier costs
-Uneven regional performance	Improve regional marketing campaigns
-Low Furniture profitability	Reduce excessive discounting
+| Business Problem | Recommendation |
+|---|---|
+| High discounts reducing profit | Optimize discount strategy |
+| Loss-making sub-categories | Reevaluate pricing and supplier costs |
+| Uneven regional performance | Improve regional marketing campaigns |
+| Low Furniture profitability | Reduce excessive discounting |
 
 # ✨ Key Project Features
 
@@ -263,13 +268,14 @@ Low Furniture profitability	Reduce excessive discounting
 
 # 📈 Project Metrics
 
-Metric	Value
-Total Sales	$2.3M+
-Total Profit	$286K+
-Profit Margin	12.47%
-Records Processed	9K+
-Visualizations Created	6+
-Interactive Slicers	3
+| Metric | Value |
+|---|---|
+| Total Sales | $2.3M+ |
+| Total Profit | $286K+ |
+| Profit Margin | 12.47% |
+| Records Processed | 9K+ |
+| Visualizations Created | 6+ |
+| Interactive Slicers | 3 |
 
 # 🏆 Skills Demonstrated
 
