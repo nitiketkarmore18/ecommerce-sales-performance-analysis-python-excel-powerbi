@@ -115,15 +115,15 @@ Business Insight Generation
 
 #🧹 Data Cleaning & Preprocessing
 
--The dataset was cleaned and analyzed using Python in Google Colab.
+- The dataset was cleaned and analyzed using Python in Google Colab.
 
--Key Preprocessing Steps
--Imported dataset using Pandas
--Checked data types and column consistency
--Verified missing values and duplicates
--Processed numerical and categorical fields
--Performed exploratory data analysis (EDA)
--Prepared cleaned dataset for Power BI reporting
+- Key Preprocessing Steps
+- Imported dataset using Pandas
+- Checked data types and column consistency
+- Verified missing values and duplicates
+- Processed numerical and categorical fields
+- Performed exploratory data analysis (EDA)
+- Prepared cleaned dataset for Power BI reporting
 
 ---
 
@@ -132,13 +132,13 @@ Business Insight Generation
 
 SQL was used to perform business-oriented querying, aggregation, profitability analysis, and regional sales evaluation before dashboard development.
 
--SQL Analysis Performed
--Executive KPI generation
--Category-wise sales and profit analysis
--Regional revenue contribution analysis
--Loss-making sub-category detection
--Discount impact analysis
--Customer segment performance analysis
+- SQL Analysis Performed
+- Executive KPI generation
+- Category-wise sales and profit analysis
+- Regional revenue contribution analysis
+- Loss-making sub-category detection
+- Discount impact analysis
+- Customer segment performance analysis
 
 Sample SQL Query
 
@@ -154,24 +154,24 @@ ORDER BY total_sales DESC;
 
 EDA was performed to identify patterns, trends, and relationships in the dataset.
 
--Analysis Performed
--Category-wise sales analysis
--Profitability analysis
--Regional performance analysis
--Segment-wise customer analysis
--Discount impact analysis
--Sub-category performance evaluation
+- Analysis Performed
+- Category-wise sales analysis
+- Profitability analysis
+- Regional performance analysis
+- Segment-wise customer analysis
+- Discount impact analysis
+- Sub-category performance evaluation
 
 # 📊 Power BI Dashboard Features
 KPI Cards
 
 The dashboard includes the following business KPIs:
 
--Total Sales
--Total Profit
--Profit Margin %
--Average Discount
--Interactive Visualizations
+- Total Sales
+- Total Profit
+- Profit Margin %
+- Average Discount
+- Interactive Visualizations
 
 Visualization	Purpose
 Sales by Category	Compare category sales performance
@@ -184,9 +184,9 @@ Interactive Filters
 
 The dashboard includes slicers for:
 
--Category
--Region
--Segment
+- Category
+- Region
+- Segment
 
 This enables dynamic and interactive business analysis.
 
@@ -198,7 +198,8 @@ The following DAX measure was implemented to evaluate overall business profitabi
 Profit Margin % =
 DIVIDE(SUM(superstore_final[Profit]),
 SUM(superstore_final[Sales]))
-Business Purpose
+
+- Business Purpose
 
 This KPI helps measure how efficiently revenue is converted into profit.
 
@@ -206,37 +207,37 @@ This KPI helps measure how efficiently revenue is converted into profit.
 
 1️⃣ Technology Category Generates Highest Revenue
 
--Technology category produced the highest sales and profit
+- Technology category produced the highest sales and profit
 Indicates strong customer demand and better profit margins
 
--Business Impact
+- Business Impact
 
--The business can prioritize technology-focused products to maximize profitability.
+- The business can prioritize technology-focused products to maximize profitability.
 
 2️⃣ Furniture Category Shows Lower Profitability
 
--Furniture generated high sales but lower profit margins
+- Furniture generated high sales but lower profit margins
 Excessive discounting reduced profitability
 
--Business Impact
+- Business Impact
 
--Discount optimization strategies should be implemented to improve margins.
+- Discount optimization strategies should be implemented to improve margins.
 
 3️⃣ Higher Discounts Reduce Profitability
 
--Scatter plot analysis showed a negative relationship between discounts and profit
+- Scatter plot analysis showed a negative relationship between discounts and profit
 
--Business Impact
+- Business Impact
 
--Aggressive discounting policies should be controlled to prevent profit erosion.
+- Aggressive discounting policies should be controlled to prevent profit erosion.
 
 4️⃣ Certain Sub-Categories are Loss-Making
 
--Some sub-categories consistently generated negative profit
+- Some sub-categories consistently generated negative profit
 
--Business Impact
+- Business Impact
 
--Pricing strategies and supplier costs should be reevaluated.
+- Pricing strategies and supplier costs should be reevaluated.
 
 # 💡 Business Recommendations
 
@@ -248,12 +249,12 @@ Low Furniture profitability	Reduce excessive discounting
 
 # ✨ Key Project Features
 
--Interactive Power BI dashboard with KPI monitoring
--SQL-based business analysis and profitability evaluation
--Python-driven exploratory data analysis (EDA)
--DAX-based KPI calculations and profit margin analysis
--Regional, category, and segment-level performance insights
--Business recommendations based on data-driven findings
+- Interactive Power BI dashboard with KPI monitoring
+- SQL-based business analysis and profitability evaluation
+- Python-driven exploratory data analysis (EDA)
+- DAX-based KPI calculations and profit margin analysis
+- Regional, category, and segment-level performance insights
+- Business recommendations based on data-driven findings
 
 # 📌 Dashboard Preview
 
@@ -273,27 +274,27 @@ Interactive Slicers	3
 
 This project demonstrates practical experience in:
 
--SQL Querying & Aggregation
--Data Cleaning
--Exploratory Data Analysis
--Business Intelligence
--Dashboard Development
--DAX Calculations
--Data Visualization
--Business Insight Generation
--Analytical Thinking
-Problem Solving
--Business Reporting
+- SQL Querying & Aggregation
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Intelligence
+- Dashboard Development
+- DAX Calculations
+- Data Visualization
+- Business Insight Generation
+- Analytical Thinking
+- Problem Solving
+- Business Reporting
 
 # ⚡ Challenges Faced
 
 During the project, the following challenges were encountered:
 
--Dataset formatting inconsistencies
--KPI calculation accuracy
--Dashboard layout optimization
--Proper visualization selection
--DAX formatting and business metric calculations
+- Dataset formatting inconsistencies
+- KPI calculation accuracy
+- Dashboard layout optimization
+- Proper visualization selection
+- DAX formatting and business metric calculations
 
 These challenges were resolved through iterative analysis and dashboard refinement.
 
@@ -301,12 +302,12 @@ These challenges were resolved through iterative analysis and dashboard refineme
 
 Potential future enhancements include:
 
--Time-series sales forecasting
--Predictive analytics models
--Customer retention analysis
--Drill-through reporting
--Advanced DAX measures
--Real-time data integration
+- Time-series sales forecasting
+- Predictive analytics models
+- Customer retention analysis
+- Drill-through reporting
+- Advanced DAX measures
+- Real-time data integration
 
 # 📁 Repository Structure
 ```text
@@ -340,22 +341,22 @@ Ecommerce-Sales-Performance-Dashboard/
 
 The project successfully transformed raw ecommerce transaction data into an interactive business intelligence solution capable of:
 
--Monitoring sales performance
--Evaluating profitability trends
--Identifying discount-related losses
--Detecting high-performing regions and categories
--Supporting data-driven business decisions
+- Monitoring sales performance
+- Evaluating profitability trends
+- Identifying discount-related losses
+- Detecting high-performing regions and categories
+- Supporting data-driven business decisions
 
 # 🎯 Project Impact
 
 This project improved visibility into ecommerce sales and profitability trends through interactive reporting and business intelligence visualization.
 
 Key Impact Areas
--Enabled category-wise profitability analysis
--Identified discount-driven loss areas
--Improved regional and segment-level analysis
--Supported strategic business recommendations
--Demonstrated end-to-end analytics workflow implementation
+- Enabled category-wise profitability analysis
+- Identified discount-driven loss areas
+- Improved regional and segment-level analysis
+- Supported strategic business recommendations
+- Demonstrated end-to-end analytics workflow implementation
 
 # 👨‍💻 Author
 Nitiket Karmore
@@ -363,9 +364,9 @@ Nitiket Karmore
 Data Analyst | SQL | Power BI | Python | Business Intelligence
 
 Connect With Me
-LinkedIn: https://www.linkedin.com/in/nitiket-karmore-3602b22b6/
-Portfolio: https://nitiket-karmore-saz8dqw.gamma.site/
+- LinkedIn: https://www.linkedin.com/in/nitiket-karmore-3602b22b6/
+- Portfolio: https://nitiket-karmore-saz8dqw.gamma.site/
 
 # ⭐ Final Note
 
-This project demonstrates the complete lifecycle of a real-world analytics workflow — from SQL-based querying and raw data preprocessing to exploratory analysis, dashboard development, and business intelligence reporting.
+- This project demonstrates the complete lifecycle of a real-world analytics workflow — from SQL-based querying and raw data preprocessing to exploratory analysis, dashboard development, and business intelligence reporting.
