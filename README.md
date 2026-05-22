@@ -192,14 +192,14 @@ The dashboard includes slicers for:
 This enables dynamic and interactive business analysis.
 
 # 🧠 DAX Measures Implemented
-Profit Margin %
+- Profit Margin %
 
 The following DAX measure was implemented to evaluate overall business profitability:
-
+```
 Profit Margin % =
 DIVIDE(SUM(superstore_final[Profit]),
 SUM(superstore_final[Sales]))
-
+```
 - Business Purpose
 
 This KPI helps measure how efficiently revenue is converted into profit.
@@ -208,7 +208,7 @@ This KPI helps measure how efficiently revenue is converted into profit.
 
 1️⃣ Technology Category Generates Highest Revenue
 
-- Technology category produced the highest sales and profit
+Technology category produced the highest sales and profit
 Indicates strong customer demand and better profit margins
 
 - Business Impact
