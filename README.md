@@ -115,15 +115,15 @@ Business Insight Generation
 
 #🧹 Data Cleaning & Preprocessing
 
-The dataset was cleaned and analyzed using Python in Google Colab.
+-The dataset was cleaned and analyzed using Python in Google Colab.
 
-Key Preprocessing Steps
-Imported dataset using Pandas
-Checked data types and column consistency
-Verified missing values and duplicates
-Processed numerical and categorical fields
-Performed exploratory data analysis (EDA)
-Prepared cleaned dataset for Power BI reporting
+-Key Preprocessing Steps
+-Imported dataset using Pandas
+-Checked data types and column consistency
+-Verified missing values and duplicates
+-Processed numerical and categorical fields
+-Performed exploratory data analysis (EDA)
+-Prepared cleaned dataset for Power BI reporting
 
 ---
 
