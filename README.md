@@ -113,7 +113,7 @@ Business Insight Generation
 ```
 ---
 
-#🧹 Data Cleaning & Preprocessing
+# 🧹 Data Cleaning & Preprocessing
 
 - The dataset was cleaned and analyzed using Python in Google Colab.
 
@@ -141,7 +141,7 @@ SQL was used to perform business-oriented querying, aggregation, profitability a
 - Customer segment performance analysis
 
 Sample SQL Query
-
+```
 SELECT
     Category,
     ROUND(SUM(Sales), 2) AS total_sales,
@@ -149,6 +149,7 @@ SELECT
 FROM superstore_cleaned
 GROUP BY Category
 ORDER BY total_sales DESC;
+```
 
 # 📈 Exploratory Data Analysis (EDA)
 
@@ -212,32 +213,32 @@ Indicates strong customer demand and better profit margins
 
 - Business Impact
 
-- The business can prioritize technology-focused products to maximize profitability.
+The business can prioritize technology-focused products to maximize profitability.
 
 2️⃣ Furniture Category Shows Lower Profitability
 
-- Furniture generated high sales but lower profit margins
+Furniture generated high sales but lower profit margins
 Excessive discounting reduced profitability
 
 - Business Impact
 
-- Discount optimization strategies should be implemented to improve margins.
+Discount optimization strategies should be implemented to improve margins.
 
 3️⃣ Higher Discounts Reduce Profitability
 
-- Scatter plot analysis showed a negative relationship between discounts and profit
+Scatter plot analysis showed a negative relationship between discounts and profit
 
 - Business Impact
 
-- Aggressive discounting policies should be controlled to prevent profit erosion.
+Aggressive discounting policies should be controlled to prevent profit erosion.
 
 4️⃣ Certain Sub-Categories are Loss-Making
 
-- Some sub-categories consistently generated negative profit
+ Some sub-categories consistently generated negative profit
 
 - Business Impact
 
-- Pricing strategies and supplier costs should be reevaluated.
+Pricing strategies and supplier costs should be reevaluated.
 
 # 💡 Business Recommendations
 
