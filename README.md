@@ -128,7 +128,7 @@ Business Insight Generation
 ---
 
 
-#🗄️ SQL Querying & Business Analysis
+# 🗄️ SQL Querying & Business Analysis
 
 SQL was used to perform business-oriented querying, aggregation, profitability analysis, and regional sales evaluation before dashboard development.
 
@@ -150,7 +150,7 @@ FROM superstore_cleaned
 GROUP BY Category
 ORDER BY total_sales DESC;
 
-#📈 Exploratory Data Analysis (EDA)
+# 📈 Exploratory Data Analysis (EDA)
 
 EDA was performed to identify patterns, trends, and relationships in the dataset.
 
@@ -162,7 +162,7 @@ Segment-wise customer analysis
 Discount impact analysis
 Sub-category performance evaluation
 
-#📊 Power BI Dashboard Features
+# 📊 Power BI Dashboard Features
 KPI Cards
 
 The dashboard includes the following business KPIs:
@@ -190,7 +190,7 @@ Segment
 
 This enables dynamic and interactive business analysis.
 
-#🧠 DAX Measures Implemented
+# 🧠 DAX Measures Implemented
 Profit Margin %
 
 The following DAX measure was implemented to evaluate overall business profitability:
@@ -202,7 +202,7 @@ Business Purpose
 
 This KPI helps measure how efficiently revenue is converted into profit.
 
-#🔍 Key Business Insights
+# 🔍 Key Business Insights
 
 1️⃣ Technology Category Generates Highest Revenue
 Technology category produced the highest sales and profit
@@ -233,7 +233,7 @@ Business Impact
 
 Pricing strategies and supplier costs should be reevaluated.
 
-#💡 Business Recommendations
+# 💡 Business Recommendations
 
 Business Problem	Recommendation
 High discounts reducing profit	Optimize discount strategy
@@ -241,7 +241,7 @@ Loss-making sub-categories	Reevaluate pricing and supplier costs
 Uneven regional performance	Improve regional marketing campaigns
 Low Furniture profitability	Reduce excessive discounting
 
-#✨ Key Project Features
+# ✨ Key Project Features
 
 Interactive Power BI dashboard with KPI monitoring
 SQL-based business analysis and profitability evaluation
@@ -250,11 +250,11 @@ DAX-based KPI calculations and profit margin analysis
 Regional, category, and segment-level performance insights
 Business recommendations based on data-driven findings
 
-#📌 Dashboard Preview
+# 📌 Dashboard Preview
 
 <img width="1147" height="734" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/3f9d4732-a2e8-4073-b532-bd53ed5b370a" />
 
-📈 Project Metrics
+# 📈 Project Metrics
 
 Metric	Value
 Total Sales	$2.3M+
@@ -264,7 +264,7 @@ Records Processed	9K+
 Visualizations Created	6+
 Interactive Slicers	3
 
-#🏆 Skills Demonstrated
+# 🏆 Skills Demonstrated
 
 This project demonstrates practical experience in:
 
@@ -280,7 +280,7 @@ Analytical Thinking
 Problem Solving
 Business Reporting
 
-#⚡ Challenges Faced
+# ⚡ Challenges Faced
 
 During the project, the following challenges were encountered:
 
@@ -292,7 +292,7 @@ DAX formatting and business metric calculations
 
 These challenges were resolved through iterative analysis and dashboard refinement.
 
-#🚀 Future Improvements
+# 🚀 Future Improvements
 
 Potential future enhancements include:
 
@@ -303,7 +303,7 @@ Drill-through reporting
 Advanced DAX measures
 Real-time data integration
 
-#📁 Repository Structure
+# 📁 Repository Structure
 ```text
 Ecommerce-Sales-Performance-Dashboard/
 │
@@ -328,9 +328,11 @@ Ecommerce-Sales-Performance-Dashboard/
 │   └── eda_ecommerce_sales_report.pdf
 │
 └── README.md
-📌 Project Outcomes
 ```
 ---
+
+# 📌 Project Outcomes
+
 The project successfully transformed raw ecommerce transaction data into an interactive business intelligence solution capable of:
 
 Monitoring sales performance
@@ -339,7 +341,7 @@ Identifying discount-related losses
 Detecting high-performing regions and categories
 Supporting data-driven business decisions
 
-#🎯 Project Impact
+# 🎯 Project Impact
 
 This project improved visibility into ecommerce sales and profitability trends through interactive reporting and business intelligence visualization.
 
@@ -350,15 +352,15 @@ Improved regional and segment-level analysis
 Supported strategic business recommendations
 Demonstrated end-to-end analytics workflow implementation
 
-#👨‍💻 Author
+# 👨‍💻 Author
 Nitiket Karmore
 
-Aspiring Data Analyst | SQL | Power BI | Python | Business Intelligence
+Data Analyst | SQL | Power BI | Python | Business Intelligence
 
 Connect With Me
 LinkedIn: https://www.linkedin.com/in/nitiket-karmore-3602b22b6/
 Portfolio: https://nitiket-karmore-saz8dqw.gamma.site/
 
-#⭐ Final Note
+# ⭐ Final Note
 
 This project demonstrates the complete lifecycle of a real-world analytics workflow — from SQL-based querying and raw data preprocessing to exploratory analysis, dashboard development, and business intelligence reporting.
