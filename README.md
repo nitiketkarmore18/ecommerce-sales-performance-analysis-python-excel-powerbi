@@ -136,7 +136,9 @@ Regional revenue contribution analysis
 Loss-making sub-category detection
 Discount impact analysis
 Customer segment performance analysis
+
 Sample SQL Query
+
 SELECT
     Category,
     ROUND(SUM(Sales), 2) AS total_sales,
@@ -167,6 +169,7 @@ Total Profit
 Profit Margin %
 Average Discount
 Interactive Visualizations
+
 Visualization	Purpose
 Sales by Category	Compare category sales performance
 Profit by Category	Evaluate category profitability
@@ -197,6 +200,7 @@ Business Purpose
 This KPI helps measure how efficiently revenue is converted into profit.
 
 #🔍 Key Business Insights
+
 1️⃣ Technology Category Generates Highest Revenue
 Technology category produced the highest sales and profit
 Indicates strong customer demand and better profit margins
@@ -205,6 +209,7 @@ Business Impact
 The business can prioritize technology-focused products to maximize profitability.
 
 2️⃣ Furniture Category Shows Lower Profitability
+
 Furniture generated high sales but lower profit margins
 Excessive discounting reduced profitability
 Business Impact
@@ -212,18 +217,21 @@ Business Impact
 Discount optimization strategies should be implemented to improve margins.
 
 3️⃣ Higher Discounts Reduce Profitability
+
 Scatter plot analysis showed a negative relationship between discounts and profit
 Business Impact
 
 Aggressive discounting policies should be controlled to prevent profit erosion.
 
 4️⃣ Certain Sub-Categories are Loss-Making
+
 Some sub-categories consistently generated negative profit
 Business Impact
 
 Pricing strategies and supplier costs should be reevaluated.
 
 #💡 Business Recommendations
+
 Business Problem	Recommendation
 High discounts reducing profit	Optimize discount strategy
 Loss-making sub-categories	Reevaluate pricing and supplier costs
@@ -231,6 +239,7 @@ Uneven regional performance	Improve regional marketing campaigns
 Low Furniture profitability	Reduce excessive discounting
 
 #✨ Key Project Features
+
 Interactive Power BI dashboard with KPI monitoring
 SQL-based business analysis and profitability evaluation
 Python-driven exploratory data analysis (EDA)
@@ -239,8 +248,11 @@ Regional, category, and segment-level performance insights
 Business recommendations based on data-driven findings
 
 #📌 Dashboard Preview
+
 <img width="1147" height="734" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/3f9d4732-a2e8-4073-b532-bd53ed5b370a" />
+
 📈 Project Metrics
+
 Metric	Value
 Total Sales	$2.3M+
 Total Profit	$286K+
